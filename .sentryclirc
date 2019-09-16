@@ -3,4 +3,6 @@ token=535ed681ed574516bab90cebd9236f123ecbf38f078345098c676f858c4cf9cd
 
 [defaults]
 org=tomas-uhrik
-project=1544682
+
+[defaults]
+project=tomas-uhrik

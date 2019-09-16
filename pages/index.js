@@ -4,7 +4,6 @@ const Home = () => {
     return (
         <div>
             Hello world
-            <button onClick={() => errorThree()} />
         </div>
     );
 };
